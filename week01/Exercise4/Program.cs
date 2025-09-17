@@ -29,7 +29,7 @@ class Program
         for (int i = 0; i < numbers.Count; i++)
         {
             totalSum += numbers[i];
-        }
+        }   
 
         for (int i = 0; i < numbers.Count; i++)
         {
